@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="currentCity">My current city</string>
+    <string name="temperature">Current Temperature</string>
+    <string name="weather">Current weather condition</string>
+    <string name="nextWeatherCondition">Next Weather Condition</string>
+</resources>
